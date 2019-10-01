@@ -20,6 +20,7 @@ The program automatically checks for missing requirements.
 # my-install for debian Qubes OS #
 '''bash
 $ sudo apt install dialog && sudo apt install openvpn && sudo apt install openresolv
+'''
 
 # Installation #
 
