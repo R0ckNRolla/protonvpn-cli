@@ -17,6 +17,8 @@ protonvpn-cli is a command-line tool for Linux and macOS.
 
 The program automatically checks for missing requirements.
 
+# my-install for debian Qubes OS #
+sudo apt install dialog && sudo apt install openvpn && sudo apt install openresolv
 
 # Installation #
 
