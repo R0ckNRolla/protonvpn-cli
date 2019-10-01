@@ -21,7 +21,7 @@ The program automatically checks for missing requirements.
 # Installation #
 
 ```bash
-$ sudo apt install dialog && sudo apt install openvpn && sudo apt install openresolv && sudo apt
+$ sudo apt install dialog && sudo apt install openvpn && sudo apt install openresolv
 $ git clone "https://github.com/protonvpn/protonvpn-cli"
 $ cd protonvpn-cli
 $ sudo ./protonvpn-cli.sh --install
